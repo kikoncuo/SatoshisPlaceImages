@@ -1,4 +1,10 @@
-#Shatoshi's place image bot
+# Shatoshi's place image bot
+
+[![NPM Version][npm-image]][npm-url]
+[![Downloads Stats][npm-downloads]][npm-url]
+
+Requirements:
+* [Node](https://nodejs.org/) - Node 8 or newer 
 
 Simple bot which takes an image and calculates the necessary payments to satoshis.place, and testnet.satoshis.place.
 
@@ -14,3 +20,16 @@ Example:
 
 Only --image is required, default values are size 32, startingPoint middle and socket testnet.
 
+## Authors
+
+* **Enrique Alcázar** - [@enriquealcazarg](https://twitter.com/enriquealcazarg)
+
+See also the list of [contributors](https://github.com/kikoncuo/SatoshisPlaceImages/contributors) who participated in this project.
+
+## Contributing
+
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
