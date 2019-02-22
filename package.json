@@ -1,12 +1,12 @@
 {
   "name": "satoshiplacebot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Bot to print images into satoshis.place and testnet.satoshis.place",
+  "main": "sendImage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Enrique Alcazar Garzas",
   "license": "ISC",
   "dependencies": {
     "flags": "^0.1.3",
